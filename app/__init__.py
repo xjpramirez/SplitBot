@@ -1,0 +1,1 @@
+"""SplitBot - A Slack bot for splitting expenses.""" 
